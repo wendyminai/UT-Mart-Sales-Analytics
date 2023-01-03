@@ -15,11 +15,10 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
-You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
+You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/wendy.minai/viz/UTMartSalesAnalytics_16727670830550/Dashboard1
 
 ##  UT Mart Sales Analytics Dashboard
-
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
+https://public.tableau.com/app/profile/wendy.minai/viz/UTMartSalesAnalytics_16727670830550/Dashboard1
 
 
 
