@@ -18,7 +18,8 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/wendy.minai/viz/UTMartSalesAnalytics_16727670830550/Dashboard1
 
 ##  UT Mart Sales Analytics Dashboard
-https://public.tableau.com/app/profile/wendy.minai/viz/UTMartSalesAnalytics_16727670830550/Dashboard1
+<img width="1363" alt="Screen Shot 2023-01-03 at 12 42 13 PM" src="https://user-images.githubusercontent.com/111389636/210420956-8216c60a-5be7-4233-8ef1-eaae7882f07c.png">
+
 
 
 
